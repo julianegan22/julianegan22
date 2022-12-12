@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julián Andrés Egan, from Buenos Aires, Argentina.
-- 👀 I’m interested in working at an IT company in order to help them to reach their objectives, besides I can learn and improve my skills.
+- 👀 I’m interested in working as a software developer.
 - 🌱 I’m currently learning English and coding. I study Systems at University of Buenos Aires. I'm in the 3rd year.
 - 💞️ I’m looking to collaborate on proyects where I can work with Python, Java, Javascript, etc.
 - 📫 How to reach me: send me an email to julianegan22@gmail.com; on the other hand, you can call me: +5491168662616
